@@ -6,7 +6,7 @@ toc: true
 toc_sticky: true
 ---
 ## Introduction
-I am a leader in engineering, guiding teams a team of 15 engineers across 2 teams, including managing another engineering manager. With over 3 years of experience in engineering management, I focus on creating high-performing, collaborative teams that deliver impactful results. My leadership experience is backed by more than 15 years as a software engineer, where I specialized in backend technologies, particularly in highly available, fault tolerant distributed systems. Today, my primary interests lie in mentoring, coaching, career development, and driving technical vision and strategy.
+I am a leader in engineering, guiding 20 engineers across 2 teams. I'm managing one of the teams directly, while I provide leadership to the other team through their engineering manager. With over 3 years of experience in engineering management, I focus on creating high-performing, collaborative teams that deliver impactful results. My leadership experience is backed by more than 15 years as a software engineer, where I specialized in backend technologies, particularly in highly available, fault tolerant distributed systems. Today, my primary interests lie in mentoring, coaching, career development, and driving technical vision and strategy.
 
 ## Leadership Philosophy
 I believe in fostering an environment of mutual respect, open communication, and transparency. I strive to build teams where everyone, regardless of seniority, feels empowered to speak up, contribute ideas, and collaborate on solving problems. By promoting a feedback culture, I ensure that both giving and receiving constructive input are part of our everyday work.

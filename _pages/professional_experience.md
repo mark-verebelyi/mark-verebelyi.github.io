@@ -88,14 +88,41 @@ I was part of a team of 8 engineers where I focused on backend development.
 - Act as a sparring partner for team members, providing technical insights and feedback.
 
 ### Technical Skills
-- Java
-- Spring & ecosystem
-- Containerization (Docker & Kubernetes)
-- Highly available, fault-tolerant systems
-- Messaging (Apache Kafka)
-- Microservices & distributed systems
-- Application security
-- Cloud Infrastructure Providers (AWS & GCP)
+- Programming Languages: **Java**
+- Application/Web Frameworks and Libraries: 
+  - **Spring Boot & Ecosystem**
+  - **Spring Security**
+  - **JPA** (**Hibernate ORM**)
+- Message Brokers: **Apache Kafka**
+- Federated Identity Providers: **Keycloak**
+- Containerization & Orchestration: 
+  - **Docker**
+  - **Kubernetes**
+- Cloud Infrastructure Providers:
+  - **AWS** 
+  - **GCP**
+- System Design & Architecture: 
+  - **DDD**
+  - **CQRS**
+  - Scalability, Resilience & Fault Tolerance
+  - Microservices & Distributed Systems
+  - Application Security
+- CI/CD
+  - **Jenkins**
+  - **Drone**
+  - **ArgoCD**
+- Monitoring, Logging & Observability  
+  - **Graylog**
+  - **Sentry**
+  - **Prometheus**
+  - **Grafana**  
+- Database & Data Management: 
+  - **PostgreSQL**
+  - **Elasticsearch**
+  - **Redis**
+- Build Tools: 
+  - **Maven**
+  - **Gradle**
 
 ### Key Learnings
 Stepping up as a Staff Engineer shifted my focus toward scaling knowledge and influencing beyond my immediate team. Key learnings include:
@@ -122,14 +149,41 @@ During my tenure, I worked as a backend engineer on two teams: one focused on me
 - Estimate and scope projects, ensuring they are delivered on time and within expectations.
 
 ### Technical Skills
-- Java
-- Spring & ecosystem
-- Containerization (Docker & Kubernetes)
-- Highly available, fault-tolerant systems
-- Messaging (Apache Kafka)
-- Microservices & distributed systems
-- Application security
-- Cloud Infrastructure Providers (AWS & GCP)
+- Programming Languages: **Java**
+- Application/Web Frameworks and Libraries: 
+  - **Spring Boot & Ecosystem**
+  - **Spring Security**
+  - **JPA** (**Hibernate ORM**)
+- Message Brokers: **Apache Kafka**
+- Federated Identity Providers: **Keycloak**
+- Containerization & Orchestration: 
+  - **Docker**
+  - **Kubernetes**
+- Cloud Infrastructure Providers:
+  - **AWS** 
+  - **GCP**
+- System Design & Architecture: 
+  - **DDD**
+  - **CQRS**
+  - Scalability, Resilience & Fault Tolerance
+  - Microservices & Distributed Systems
+  - Application Security
+- CI/CD
+  - **Jenkins**
+  - **Drone**
+  - **ArgoCD**  
+- Monitoring, Logging & Observability  
+  - **Graylog**
+  - **Sentry**
+  - **Prometheus**
+  - **Grafana**
+- Database & Data Management: 
+  - **PostgreSQL**
+  - **Elasticsearch**
+  - **Redis**
+- Build Tools: 
+  - **Maven**
+  - **Gradle**
 
 ### Key Learnings
 Working as a Senior Software Engineer, I gained valuable experience in an international company with distributed teams. Key learnings include:
@@ -158,13 +212,20 @@ I worked as a full stack developer and software architect in a large team of eng
 - Participated in ideation sessions, contributing to discussions around project direction and technical strategy.
 
 ### Technical Skills
-- Java
-- Spring & ecosystem
-- Spring Security
-- Federated Identity Providers (CAS & Shibboleth)
-- Camunda JBPM
-- ActiveMQ
-- Domain-Driven Design & domain modeling
+- Programming Languages: **Java**
+- Application/Web Frameworks and Libraries: 
+  - **Spring Boot & Ecosystem**
+  - **Spring Security**
+  - **JPA** (**Hibernate ORM**)
+- Message Brokers: **Apache ActiveMQ**
+- Federated Identity Providers: 
+  - **CAS**
+  - **Shibboleth**
+- Architectural Patterns
+  - **DDD**
+  - **CQRS**
+- Database & Data Management: **MySQL**
+- Build Tools: **Maven**
 
 ### Key Learnings
 Being part of this greenfield project from the start was a highly enriching experience. Key learnings include:
@@ -200,11 +261,14 @@ I was part of a team of full-stack engineers delivering banking solutions for Hu
 - Focused on evolving the application in a sustainable way, ensuring long-term maintainability.
 
 ### Technical Skills
-- Java
-- Apache Struts
-- Oracle & PL/SQL
-- Application Servers (Oracle WebLogic)
-- Spring Framework
+- Programming Languages: **Java**
+- Application/Web Frameworks and Libraries: 
+  - **Spring Boot & Ecosystem**
+  - **JSP**
+  - **JPA** (**Hibernate ORM**)
+- Database & Data Management: **Oracle**, **PL/SQL**
+- Application/Web Servers: **Oracle WebLogic**
+- Build Tools: **Ant**
 
 ### Key Learnings
 Throughout my time as a Software Engineer, I gained several valuable insights:
@@ -235,13 +299,14 @@ We were a team of three developers building a fleet tracking solution for one of
 - Implemented features based on client requirements and evolving business needs.
 
 ### Technical Skills
-- Java
-- Spring & ecosystem
-- Spring Security
-- JPA & Hibernate
-- MySQL
-- GWT
-- Apache Tomcat
+- Programming Languages: **Java**
+- Application/Web Frameworks and Libraries: 
+  - **Spring Boot & Ecosystem**
+  - **Spring Security**
+  - **GWT**
+  - **JPA** (**Hibernate ORM**)
+- Database & Data Management: **MySQL**  
+- Build Tools: **Maven**
 
 ### Key Learnings
 This was my first side hustle, and it provided a wealth of valuable experiences:
@@ -273,12 +338,14 @@ I worked on a team of full-stack engineers developing a portfolio management sys
 - Focused on improving the automatic testing capabilities of the product.
 
 ### Technical Skills
-- Java
-- Java EE
-  - Application Servers (IBM WebSphere)
-  - EJB 2 & EJB 3
-  - ORM (Hibernate)
-  - JSF
+- Programming Languages: **Java**
+- Java-based Enterprise Technologies:
+  - **EJB 2** & **EJB 3**
+  - **JPA** (**Hibernate ORM**)
+  - **JSF**
+- Application/Web Servers: **IBM WebSphere**
+- Database & Data Management: **Oracle**
+- Build Tools: **Ant**, **Maven**
 
 ### Key Learnings
 This role significantly contributed to my growth as a Java developer. Some key learnings include:
@@ -304,10 +371,14 @@ I worked at a company building various Web 2.0 applications for a wide variety o
 - Investigated and resolved bugs to ensure smooth functionality.
 
 ### Technical Skills
-- Java
-- Apache Struts
-- JSP & JQuery
-- Apache Tomcat
+- Programming Languages: **Java**
+- Application/Web Frameworks and Libraries: 
+  - **Apache Struts**
+  - **JSP**
+  - **JQuery**
+- Application/Web Servers: **Apache Tomcat**
+- Database & Data Management: **MySQL**
+- Build Tools: **Ant**, **Maven**
 
 ### Key Learnings
 This was my first professional role as a software engineer, transitioning from coding as a hobby to working in a real-world environment. Key learnings include:
