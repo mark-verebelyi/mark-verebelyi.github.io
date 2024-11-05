@@ -9,11 +9,11 @@ toc_sticky: true
 Copenhagen, Denmark  
 Nov 2022 - Present (2 yrs)
 
-I lead two software engineering teams: the first, consisting of 12 engineers organized into two sub-teams, which I manage directly; and the second, with 5 engineers, where I provide leadership through their engineering manager, who reports directly to me.
+I lead two software engineering teams: the first, consisting of 12 engineers organized into two sub-teams, which I manage directly; and the second, with 5 engineers, where I provide leadership through their engineering manager, who reports directly to me. Both teams are distributed and fully remote.
 
 ### Responsibilites
 - Foster an environment of growth, collaboration, and transparency across multiple teams.
-- Coach and mentor team members, supporting their career development.
+- Coach and mentor team members and leaders, supporting their career development.
 - Oversee and evaluate bi-annual performance reviews.
 - Lead hiring efforts for multiple teams, with thorough experience in running interviews.
 - Offer technical guidance based on extensive engineering experience.
@@ -77,7 +77,7 @@ Transitioning from an individual contributor to an engineering manager was the b
 Copenhagen, Denmark  
 2020 Nov - Jan 2022 (1 yr 3 mos)
 
-I was part of a team of 8 engineers where I focused on backend development.
+I was part of a team of 8 engineers where I focused on backend development and also led cross-organizational efforts.
 
 ### Responsibilities
 - Implement complex projects, participating in the entire lifecycle from requirement gathering to release and monitoring.

@@ -6,7 +6,7 @@ toc: true
 toc_sticky: true
 ---
 ## Introduction
-I am a leader in engineering, guiding 20 engineers across 2 teams. I'm managing one of the teams directly, while I provide leadership to the other team through their engineering manager. With over 3 years of experience in engineering management, I focus on creating high-performing, collaborative teams that deliver impactful results. My leadership experience is backed by more than 15 years as a software engineer, where I specialized in backend technologies, particularly in highly available, fault tolerant distributed systems. Today, my primary interests lie in mentoring, coaching, career development, and driving technical vision and strategy.
+I am a leader in engineering, guiding 20 engineers across 2 distributed, remote-first teams. I'm managing one of the teams directly, while I provide leadership to the other team through their engineering manager. With over 3 years of experience in engineering management, I focus on creating high-performing, collaborative teams that deliver impactful results. My leadership experience is backed by more than 15 years as a software engineer, where I specialized in backend technologies, particularly in highly available, fault tolerant distributed systems. Today, my primary interests lie in mentoring, coaching, career development, and driving technical vision and strategy.
 
 ## Leadership Philosophy
 I believe in fostering an environment of mutual respect, open communication, and transparency. I strive to build teams where everyone, regardless of seniority, feels empowered to speak up, contribute ideas, and collaborate on solving problems. By promoting a feedback culture, I ensure that both giving and receiving constructive input are part of our everyday work.
@@ -36,4 +36,4 @@ TODO
    In this series of articles, I share the journey my team and I went through in tackling the challenges of managing technical debt and developing a long-term, sustainable technical vision. I explain how we introduced monthly technical forums, which led to a more organized and visible structure for managing our technical priorities. This new approach improved communication with non-technical stakeholders and, ultimately, allowed us to include more technical items in our product roadmap.
 
 ## Contact Information
-TODO
+[LinkedIn](https://www.linkedin.com/in/markverebelyi/)
