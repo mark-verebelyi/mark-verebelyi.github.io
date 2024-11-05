@@ -8,7 +8,7 @@ classes: wide
 ---
 Hi, I’m Mark. 
 
-For the past decade, I’ve been conducting technical interviews, primarily focused on software engineering roles. I've had the privilege of hiring and working with many talented engineers. Over the years, I’ve refined my interview approach and developed a strong sense of what makes a candidate stand out. I want to help software engineers gain confidence, stand out, and succeed.
+For the past decade, I’ve been conducting technical interviews, primarily focused on software engineering roles. I've had the privilege of hiring and working with many talented engineers. Over the years, I’ve refined my interview approach and developed a strong sense of what makes a candidate stand out. I want to help software engineers gain confidence, make an impact, and succeed.
 
 # What I Offer
 I’m offering free interview preparation for IT professionals, particularly software engineers. Here are a few areas, I can help with:
