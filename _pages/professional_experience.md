@@ -1,6 +1,8 @@
 ---
 permalink: /professional-experience
 layout: single
+title: Professional Experience
+canonical_url: "https://markverebelyi.com/professional-experience"
 author_profile: true
 toc: true
 toc_sticky: true
