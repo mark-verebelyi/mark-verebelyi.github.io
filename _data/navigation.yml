@@ -1,7 +1,7 @@
 # main links
 main:
-  # - title: "Professional Experience"
-  #   url: /professional-experience/
+  - title: "Free Services"
+    url: /free-services/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

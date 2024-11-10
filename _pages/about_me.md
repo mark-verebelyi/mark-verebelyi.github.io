@@ -1,12 +1,11 @@
 ---
 permalink: /
 layout: single
+title: Hello, I'm Mark
 author_profile: true
-toc: true
-toc_sticky: true
 canonical_url: "https://markverebelyi.com/"
+classes: wide
 ---
-# Introduction
 I am a leader in engineering, guiding 20 engineers across 2 distributed, remote-first teams. I'm managing one of the teams directly, while I provide leadership to the other team through their engineering manager. With over 3 years of experience in engineering management, I focus on creating high-performing, collaborative teams that deliver impactful results. My leadership experience is backed by more than 15 years as a software engineer, where I specialized in backend technologies, particularly in highly available, fault tolerant distributed systems. Today, my primary interests lie in mentoring, coaching, career development, and driving technical vision and strategy.
 
 # Leadership Philosophy

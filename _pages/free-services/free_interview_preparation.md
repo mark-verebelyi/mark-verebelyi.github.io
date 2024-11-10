@@ -1,8 +1,9 @@
 ---
-permalink: /services/interview-prep
+permalink: /free-services/free-interview-preparation
 layout: single
 title: Free Interview Preparation for IT professionals
-canonical_url: "https://markverebelyi.com/services/interview-prep"
+description: "As an IT professional, are you looking to improve your interview skills? Get free help from a software engineer with extensive interview experience. We'll focus on technical skills, interview strategies, and career development."
+canonical_url: "https://markverebelyi.com/free-services/free-interview-preparation"
 author_profile: true
 classes: wide
 ---
