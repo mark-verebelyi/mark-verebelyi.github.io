@@ -28,8 +28,8 @@ Having firsthand experience as both an interviewer and a candidate, I can provid
 * I have mentored and coached team members and leaders, helping them to develop their skills and advance their careers.
 
 # How to Contact Me
-If you’re interested, reach out! While this is a free service, I reserve the right to limit availability based on fit and scheduling. However, I’ll make an effort to respond to all inquiries. Please note that I’m offering career advice and interview preparation only—I'm not providing job placements or referrals.
+If you’re interested, reach out using the form below or on [LinkedIn](https://www.linkedin.com/in/markverebelyi/)! While this is a free service, I reserve the right to limit availability based on fit and scheduling. However, I’ll make an effort to respond to all inquiries. Please note that I’m offering career advice and interview preparation only—I'm not providing job placements or referrals.
 
 When you contact me, please include a brief introduction, an outline of what you’d like help with, and your expectations. This will help me understand how to best support you.
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/markverebelyi/)!
+{% include forms/contact-me.html %}
