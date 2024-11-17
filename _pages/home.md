@@ -19,7 +19,7 @@ feature_row:
     img_class: "custom-svg"
     url: "/about"
     btn_label: "Learn more about me"
-    btn_class: "btn--primary"
+    btn_class: "btn--primary align-center"
   - image_path: /assets/images/experience.svg
     alt: ""
     title: "Resume"
@@ -27,7 +27,7 @@ feature_row:
     img_class: "custom-svg"
     url: "/resume"
     btn_label: "Read my resume"
-    btn_class: "btn--primary"
+    btn_class: "btn--primary align-center"
   - image_path: /assets/images/free-services.svg
     alt: ""
     title: "Free Services"
@@ -35,7 +35,7 @@ feature_row:
     img_class: "custom-svg"
     url: "/free-services"
     btn_label: "Check out my free services"
-    btn_class: "btn--primary"    
+    btn_class: "btn--primary align-center"    
 ---
 {% include feature_row %}
 
