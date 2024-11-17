@@ -11,22 +11,31 @@ header:
   #  - label: "Download"
   #    url: "https://github.com/mmistakes/minimal-mistakes/"
 excerpt: "Experienced engineering leader passionate about building high-performing, collaborative teams. I combine technical expertise with a focus on mentorship, clear communication, and sustainable solutions. I'm driven by a desire to help people grow and succeed, and I believe in creating an environment where everyone feels valued and empowered."
+feature_row:
+  - image_path: /assets/images/about.svg
+    alt: ""
+    title: "About"
+    excerpt: "Curious to learn more about me and my journey? Discover the story behind my work and the passion that drives me."
+    img_class: "custom-svg"
+    url: "/about"
+    btn_label: "Learn more about me"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/experience.svg
+    alt: ""
+    title: "Resume"
+    excerpt: "Interested in my qualifications and experience? My resume highlights my skills and professional background."
+    img_class: "custom-svg"
+    url: "/resume"
+    btn_label: "Read my resume"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/free-services.svg
+    alt: ""
+    title: "Free Services"
+    excerpt: "Everyone deserves a helping hand. Explore the free services I offer to support you on your journey."
+    img_class: "custom-svg"
+    url: "/free-services"
+    btn_label: "Check out my free services"
+    btn_class: "btn--primary"    
 ---
+{% include feature_row %}
 
-![image-left](/assets/images/about.svg){: .full .custom-svg}
-# About
-Curious to learn more about me and my journey? Discover the story behind my work and the passion that drives me.
-
-[Learn more](/about){: .btn .btn--primary}
-
-![image-left](/assets/images/experience.svg){: .full .custom-svg}
-# Resume
-Interested in my qualifications and experience? My resume highlights my skills and professional background.
-
-[Read my resume](/resume){: .btn .btn--primary}
-
-![image-left](/assets/images/free-services.svg){: .full .custom-svg}
-# Free Services
-Everyone deserves a helping hand. Explore the free services I offer to support you on your journey.
-
-[Check out my free services](/free-services){: .btn .btn--primary}
