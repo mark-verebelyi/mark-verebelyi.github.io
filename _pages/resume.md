@@ -40,7 +40,8 @@ Highly accomplished and results-oriented engineering leader with 15+ years of ex
 ## Brandwatch
 
 **Senior Engineering Manager | Copenhagen, Denmark | Nov 2022 - Present**
-- [Lead two software engineering teams (13 engineers directly, 5 indirectly).](/assets/images/org-chart-senior-eng-manager.png)
+- [Lead a team of 13 software engineers directly.](/assets/images/org-chart-senior-eng-manager.png)
+- [Provide mentorship and guidance to an engineering manager responsible for a team of 5 engineers.](/assets/images/org-chart-senior-eng-manager.png)
 - Foster an environment of growth, collaboration, and transparency across multiple teams.
 - Coach and mentor team members and leaders, supporting their career development.
 - Oversee and evaluate bi-annual performance reviews.
