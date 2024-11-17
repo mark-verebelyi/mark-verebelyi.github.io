@@ -13,6 +13,7 @@ Highly accomplished and results-oriented engineering leader with 15+ years of ex
 
 ## Leadership Skills
 - Team Leadership & Management
+- Leadership Development
 - Mentoring & Coaching (Individual Contributors & Leaders)
 - Cross-functional Collaboration
 - Strategic Planning & Execution
