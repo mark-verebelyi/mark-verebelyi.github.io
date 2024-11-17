@@ -54,6 +54,8 @@ Highly accomplished and results-oriented engineering leader with 15+ years of ex
 - [Led a team of 8 engineers, focusing on growth and collaboration.](/assets/images/org-chart-eng-manager.png)
 - Provided technical guidance, improved processes, and addressed technical debt.
 - Coached, mentored, and developed team members.
+- Drove the long-term technical vision and strategy.
+- Oversaw and evaluated bi-annual performance reviews.
 - Contributed hands-on as a backend engineer.
 
 **Staff Software Engineer | Copenhagen, Denmark | Nov 2020 - Jan 2022**
