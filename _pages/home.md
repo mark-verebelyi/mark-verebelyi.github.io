@@ -13,7 +13,7 @@ header:
   #    url: "https://github.com/mmistakes/minimal-mistakes/"
 excerpt: "I'm an experienced engineering leader passionate about building high-performing, collaborative teams. I combine technical expertise with a focus on mentorship, clear communication, and sustainable solutions. I'm driven by a desire to help people grow and succeed, and I believe in creating an environment where everyone feels valued and empowered."
 intro: 
-  - excerpt: "Welcome to my personal site! I'm glad you're here. Whether you're curious to learn more about me or want to get in touch, you've come to the right place."
+  - excerpt: "Welcome to my site! I'm glad you're here. Whether you're curious to learn more about me or want to get in touch, you've come to the right place."
 feature_row:
   - image_path: /assets/images/about.svg
     alt: "Stylized illustration of a person with four interconnected circles above their head, representing different life aspects."
@@ -44,3 +44,5 @@ feature_row:
 
 {% include feature_row %}
 
+## 👋 Get In Touch
+I'm always eager to connect with fellow professionals and discuss topics related to software engineering, leadership, and personal growth. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/markverebelyi/), or check out my articles on [Medium](https://medium.com/@mark.verebelyi) where I share my insights and experiences. I appreciate your feedback and look forward to engaging in conversations with you.
