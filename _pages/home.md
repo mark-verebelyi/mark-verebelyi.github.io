@@ -1,7 +1,7 @@
 ---
 permalink: /
 layout: splash
-canonical_url: "https://markverebelyi.com/"
+canonical_url: "https://markverebelyi.com"
 description: "Engineering leader building high-performing teams. Focused on mentorship, communication, and sustainable solutions. Passionate about helping people grow."
 classes: wide
 header:

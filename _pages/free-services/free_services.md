@@ -3,7 +3,7 @@ permalink: /free-services/
 layout: splash
 title: Free Services
 description: "Ready to navigate the ever-evolving IT landscape with confidence? I'm offering free services tailored to IT professionals seeking career growth and development."
-canonical_url: "https://markverebelyi.com/free-services/"
+canonical_url: "https://markverebelyi.com/free-services"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
