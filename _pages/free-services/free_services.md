@@ -14,7 +14,7 @@ intro:
 feature_row:
   - image_path: /assets/images/free-services-interview-prep.svg
     img_class: "custom-svg"
-    alt: "An interviewer and a candidate are sitting at the opposite sides of a table."
+    alt: "Person with a speech bubble and a gear below, representing a technical process."
     title: "Free Interview Preparation"
     excerpt: "I’m offering free interview preparation for IT professionals, particularly software engineers."
     url: "/free-services/free-interview-preparation"

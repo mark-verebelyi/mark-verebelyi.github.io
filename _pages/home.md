@@ -13,7 +13,7 @@ header:
 excerpt: "Experienced engineering leader passionate about building high-performing, collaborative teams. I combine technical expertise with a focus on mentorship, clear communication, and sustainable solutions. I'm driven by a desire to help people grow and succeed, and I believe in creating an environment where everyone feels valued and empowered."
 feature_row:
   - image_path: /assets/images/about.svg
-    alt: ""
+    alt: "Stylized illustration of a person with four interconnected circles above their head, representing different life aspects."
     title: "About"
     excerpt: "Curious to learn more about me and my journey? Discover the story behind my work and the passion that drives me."
     img_class: "custom-svg"
@@ -21,7 +21,7 @@ feature_row:
     btn_label: "Learn more about me"
     btn_class: "btn--primary align-center"
   - image_path: /assets/images/experience.svg
-    alt: ""
+    alt: "Stylized illustration of a person with a half circle above their head and three stars below, representing qualifications or achievements."
     title: "Resume"
     excerpt: "Interested in my qualifications and experience? My resume highlights my skills and professional background."
     img_class: "custom-svg"
@@ -29,7 +29,7 @@ feature_row:
     btn_label: "Read my resume"
     btn_class: "btn--primary align-center"
   - image_path: /assets/images/free-services.svg
-    alt: ""
+    alt: "Two stylized people facing each other, one gesturing towards a board while speaking, indicated by a speech bubble."
     title: "Free Services"
     excerpt: "Everyone deserves a helping hand. Explore the free services I offer to support you on your journey."
     img_class: "custom-svg"
