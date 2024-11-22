@@ -12,7 +12,8 @@ excerpt: "Ready to navigate the ever-evolving IT landscape with confidence? I'm 
 intro: 
   - excerpt: "Throughout my career, I've been fortunate to have mentors and resources that helped me navigate the often-challenging world of job searching and interviewing. Now, I want to pay it forward. I believe everyone deserves access to guidance and support, regardless of their background or financial means."
 feature_row:
-  - image_path: /assets/images/free-services-interview-prep.jpg
+  - image_path: /assets/images/free-services-interview-prep.svg
+    img_class: "custom-svg"
     alt: "An interviewer and a candidate are sitting at the opposite sides of a table."
     title: "Free Interview Preparation"
     excerpt: "I’m offering free interview preparation for IT professionals, particularly software engineers."
