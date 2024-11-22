@@ -10,12 +10,14 @@ header:
   #actions:
   #  - label: "Download"
   #    url: "https://github.com/mmistakes/minimal-mistakes/"
-excerpt: "Experienced engineering leader passionate about building high-performing, collaborative teams. I combine technical expertise with a focus on mentorship, clear communication, and sustainable solutions. I'm driven by a desire to help people grow and succeed, and I believe in creating an environment where everyone feels valued and empowered."
+excerpt: "I'm an experienced engineering leader passionate about building high-performing, collaborative teams. I combine technical expertise with a focus on mentorship, clear communication, and sustainable solutions. I'm driven by a desire to help people grow and succeed, and I believe in creating an environment where everyone feels valued and empowered."
+intro: 
+  - excerpt: "Welcome to my personal site! I'm glad you're here. Whether you're curious to learn more about me or want to get in touch, you've come to the right place."
 feature_row:
   - image_path: /assets/images/about.svg
     alt: "Stylized illustration of a person with four interconnected circles above their head, representing different life aspects."
     title: "About"
-    excerpt: "Curious to learn more about me and my journey? Discover the story behind my work and the passion that drives me."
+    excerpt: "Learn more about my leadership philosophy and experience in building high-performing engineering teams. Discover how I prioritize mentorship, career development, and a people-centric approach."
     img_class: "custom-svg"
     url: "/about"
     btn_label: "Learn more about me"
@@ -23,7 +25,7 @@ feature_row:
   - image_path: /assets/images/experience.svg
     alt: "Stylized illustration of a person with a half circle above their head and three stars below, representing qualifications or achievements."
     title: "Resume"
-    excerpt: "Interested in my qualifications and experience? My resume highlights my skills and professional background."
+    excerpt: "Discover my career journey—from software engineer to engineering leader—mentoring high-performing teams to deliver impactful results. My resume details my expertise in technical strategy, performance management, and team development."
     img_class: "custom-svg"
     url: "/resume"
     btn_label: "Read my resume"
@@ -31,11 +33,13 @@ feature_row:
   - image_path: /assets/images/free-services.svg
     alt: "Two stylized people facing each other, one gesturing towards a board while speaking, indicated by a speech bubble."
     title: "Free Services"
-    excerpt: "Everyone deserves a helping hand. Explore the free services I offer to support you on your journey."
+    excerpt: "Need support in your career or professional development? I believe everyone deserves a helping hand. Explore the free services I offer to guide and assist you in reaching your goals."
     img_class: "custom-svg"
     url: "/free-services"
     btn_label: "Check out my free services"
     btn_class: "btn--primary align-center"    
 ---
+{% include feature_row id="intro" type="center" %}
+
 {% include feature_row %}
 
