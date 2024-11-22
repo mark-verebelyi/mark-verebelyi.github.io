@@ -2,6 +2,7 @@
 permalink: /
 layout: splash
 canonical_url: "https://markverebelyi.com/"
+description: "Engineering leader with expertise in building high-performing teams. Focused on mentorship, communication, and sustainable solutions. Passionate about helping people grow and succeed."
 classes: wide
 header:
   overlay_color: "#000"
