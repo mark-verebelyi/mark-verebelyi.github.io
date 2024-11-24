@@ -1,5 +1,5 @@
 ---
-permalink: /free-services/
+permalink: /free-services
 layout: splash
 title: Free Services
 description: "Ready to navigate the ever-evolving IT landscape with confidence? I'm offering free services tailored to IT professionals seeking career growth and development."
